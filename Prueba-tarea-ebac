@@ -9,4 +9,4 @@ d = 20
 
 # agregar nueva variable
 e = 100
-print(c)
+print("RESULTADO=", c)

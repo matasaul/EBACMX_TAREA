@@ -3,6 +3,10 @@ a = 2
 b = 3
 c = ((a + b) * d) / e
 d = 20
+
+
+
+
 # agregar nueva variable
 e = 100
 print(c)
